@@ -1,0 +1,24 @@
+flutter:
+  uses-material-design:true
+
+ assets:
+      - assets/img/bolt.png
+      - assets/img/down_orange.png
+      - assets/img/fish.png
+      - assets/img/illustrations.png
+      - assets/img/sausage.png
+      - assets/img/shoe.png
+      - assets/img/up_red.png
+      - assets/img/HeaLth.png
+-family: Bebas 
+     fonts:
+        - asset: assets/fonts/bebas_regular.otf
+        - asset: assets/fonts/bebas_bold.otf
+          weight: 700
+          
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins_regular.otf
+        - asset: assets/fonts/poppins_bold.otf
+           weight: 700
+   
