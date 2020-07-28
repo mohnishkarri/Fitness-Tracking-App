@@ -13,22 +13,17 @@ class _WelcomeState extends State<Welcome> {
       body: SingleChildScrollView(
         child : Center(
         child: Container(
-
           child: Column(
-
             children: <Widget>[
               Image.asset(assets/img/Health.png,
-              width: 300,
-              
-              )
+                width: 300,
+              ),
               Text('Your Personal',style: TextStyle(
-
                 color: Colors.yellow,
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
-              ),)
-
-
+              ),
+             )
             ],
           ),
         ),
